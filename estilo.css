@@ -1,3 +1,9 @@
+.imagem-com-espaco {
+    margin: 30px; /* Espaço fora da imagem (top, right, bottom, left) */
+    padding: 10px; /* Espaço dentro da imagem (se houver borda/fundo) */
+    border: 1px solid #ccc; /* Apenas para visualizar o padding */
+  }
+
 table {
     border-collapse: collapse; /* Removes space between borders */
     width: 100%;
@@ -148,5 +154,6 @@ main{
 .verm {color: red
 
 } 
+
 
 
