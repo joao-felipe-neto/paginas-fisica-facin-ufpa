@@ -78,6 +78,7 @@ table td:hover{
     font-style: italic;
     color: #555;
     text-align: center; 
+    display:table-row;
 }
 
 body {
@@ -186,8 +187,8 @@ main{
 }
 
 .verm {color: red
-
 } 
+
 
 
 
